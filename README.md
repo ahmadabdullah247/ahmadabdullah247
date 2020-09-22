@@ -6,3 +6,6 @@ I’m a Software Engineer turned Data Scientist. Brining best of both worlds tog
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/ahmadabdullah247//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http://twitter.com/ahmadabdullah02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://thedatanoob.net)  
 
+
+
+[3]: https://www.linkedin.com/in/http://linkedin.com/in/ahmadabdullah247/
