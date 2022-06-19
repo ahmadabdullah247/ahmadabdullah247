@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ahmad
-I’m a Software Engineer turned Data Scientist. Brining best of both worlds together to build end-to-end data products. I have professional experience in development of about tree years. Up until recently I was working as a Backend Developer and Data Scientist at HQrevenue. I pioneered data science project at HQrevenue, developing and deploying complete forecasting solution in production enviroment. Prior to this I have hands-on experience in developing API’s with Python, Node.js and ASP.NET.
+I am a Software Engineer who also understands Machine learning. I have been developing Web applications for over three years. I am into developing data products. I have developed and deployed various data science projects. I would love to collaborate on interesting projects around fintech, e-commerce, or IoT.
 
 ## Get in touch
 You can find me on [Twitter](https://twitter.com/http://twitter.com/ahmadabdullah02), [GitHub](http://github.com/ahmadabdullah247), [LinkedIn](https://www.linkedin.com/in/http://linkedin.com/in/ahmadabdullah247/)… pretty much everywhere with @ahmadabdullah247 handle.
